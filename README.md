@@ -110,13 +110,11 @@ Works seamlessly with any public Git repository:
 
 ```bash
 # GitHub repositories
-thrylo-git-log --repo https://github.com/microsoft/vscode.git --format csv
+thry git-log --repo https://github.com/microsoft/vscode.git --format csv
 
 # GitLab repositories  
-thrylo-git-log --repo https://gitlab.com/user/project.git --format json
+thry git-log --repo https://gitlab.com/user/project.git --format json
 
-# SSH repositories
-thrylo-git-log --repo git@github.com:user/repo.git --format md
 ```
 
 ## 🏗️ Part of Thrylo Ecosystem
