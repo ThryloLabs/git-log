@@ -1,6 +1,6 @@
 {
   "name": "@thrylolabs/git-log",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Export Git commit history to JSON",
   "main": "dist/index.js",
   "type": "commonjs",
