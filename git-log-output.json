@@ -1,0 +1,23 @@
+[
+  {
+    "hash": "9c9841e0a6c304cc213fe78cf096a3ac2e7b69d0",
+    "author": "Samar Ranjit",
+    "email": "samarranjit321@gmail.com",
+    "date": "2025-05-25T04:59:27-05:00",
+    "message": "Merge branch 'master'"
+  },
+  {
+    "hash": "e4254a37ecae99cffcd5478a63bab4eb62dcca87",
+    "author": "Samar Ranjit",
+    "email": "samarranjit321@gmail.com",
+    "date": "2025-05-25T03:01:27-05:00",
+    "message": "Initial commit: working CLI for git-log"
+  },
+  {
+    "hash": "fedec313ddfc295dbc082bdcb469bd18725bc856",
+    "author": "Samar Ranjit",
+    "email": "84336809+samarranjit@users.noreply.github.com",
+    "date": "2025-05-25T03:00:10-05:00",
+    "message": "Initial commit"
+  }
+]

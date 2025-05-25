@@ -1,0 +1,14 @@
+Commit Hash,Author,Email,Date,Message
+072d74e1fe13557b3e3c9cc77fe5cde816755f03,Gaurab Chhetri,contact@gaurabchhetri.com.np,2025-05-25T05:15:25-05:00,fix: add contribution badge to README
+7e56c1cef3b5e144c666e10af21f362320b6dc44,Gaurab Chhetri,contact@gaurabchhetri.com.np,2025-05-25T05:01:53-05:00,Merge pull request #3 from ThryloLabs/feat/gauravfs-14
+06048ffde627829793ac3f0b15621d9877545270,Gaurab Chhetri,contact@gaurabchhetri.com.np,2025-05-25T05:00:26-05:00,fix: update .gitignore to include .npmrc and modify license reference in README
+3cf951d1cb5006b47fb0458f684fd051f20cb3db,Gaurab Chhetri,contact@gaurabchhetri.com.np,2025-05-25T04:29:53-05:00,0.0.2
+98b1839f5ca1437335731696a1c6c7082cdd0b01,Gaurab Chhetri,contact@gaurabchhetri.com.np,2025-05-25T04:29:47-05:00,fix: update README badges and add version command to dstat
+f7c9378e173d85b80bba356f62f082946b4afbf9,Gaurab Chhetri,contact@gaurabchhetri.com.np,2025-05-25T04:25:15-05:00,Merge pull request #2 from ThryloLabs/feat/gauravfs-14
+fdeba2becf317059badbf8ade3504948ae56f797,Gaurab Chhetri,contact@gaurabchhetri.com.np,2025-05-25T04:24:48-05:00,feat: add GitHub Actions workflow for NPM publishing
+297d17039e12213c938d473233fc2f99068f11dd,Gaurab Chhetri,contact@gaurabchhetri.com.np,2025-05-25T04:23:06-05:00,fix: correct punctuation and update badge links in README.md
+3f009e3278152209b0008a7546e53f51080ac5d6,Gaurab Chhetri,contact@gaurabchhetri.com.np,2025-05-25T04:20:44-05:00,Merge pull request #1 from ThryloLabs/feat/gauravfs-14
+2cca9e2b2a9d5befae9f5e842d82fa8ac113c465,Gaurab Chhetri,contact@gaurabchhetri.com.np,2025-05-25T04:20:10-05:00,refactor: update package.json and remove unused files
+db7e739ec8a614d035863b3470cb934aa457ddaa,Gaurab Chhetri,contact@gaurabchhetri.com.np,2025-05-25T01:18:11-05:00,Initialize project structure with TypeScript configuration and core files
+d018cd814ddc1bec586622606640ce8c54ceb36c,Gaurab Chhetri,contact@gaurabchhetri.com.np,2025-05-25T01:13:08-05:00,Add .gitignore and README.md files for project setup
+e0f4145a4d881138b706c1f058c14f44c6dc3996,Gaurab Chhetri,contact@gaurabchhetri.com.np,2025-05-25T01:06:01-05:00,Initial commit
