@@ -1,0 +1,26 @@
+# Ignore node modules
+node_modules/
+
+# Ignore build output
+dist/
+
+# Ignore TypeScript cache
+*.tsbuildinfo
+
+# Ignore logs
+*.log
+
+# Ignore environment files (if added later)
+.env
+.env.local
+
+# Ignore IDE/editor config files
+.vscode/
+.idea/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore package-lock if you're using yarn (optional)
+package-lock.json
